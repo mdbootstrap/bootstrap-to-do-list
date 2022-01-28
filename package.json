@@ -1,25 +1,25 @@
 {
-  "name": "bootstrap-avatars",
-  "version": "1.0.4",
-  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
-  "main": "profile.html",
+  "name": "bootstrap-to-do-list",
+  "version": "1.0.0",
+  "description": "Responsive To Do Lists built with the latest Bootstrap 5. Various variants of design and functionality.",
+  "main": "basic.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-avatars.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-to-do-list.git"
   },
   "keywords": [
     "bootstrap",
-    "avatar",
+    "to-do-list",
     "bootstrap5",
-    "circle-image-view"
+    "to-do-list-templates"
   ],
   "author": "mdbootstrap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdbootstrap/bootstrap-avatars/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-to-do-list/issues"
   },
-  "homepage": "https://mdbootstrap.com/docs/standard/extended/avatar/"
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/to-do-list/"
 }
